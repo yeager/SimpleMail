@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=SimpleMail
+Name[sv]=Enkel E-post
+Comment=Email with pictogram support
+Comment[sv]=E-post med piktogramstöd
+GenericName=Accessibility Application
+GenericName[sv]=Tillgänglighetsapp
+Exec=python3 -m simplemail
+Icon=simplemail
+Terminal=false
+Type=Application
+Categories=Utility;Accessibility;
+Keywords=accessibility;a11y;
+Keywords[sv]=tillgänglighet;funktionsnedsättning;
