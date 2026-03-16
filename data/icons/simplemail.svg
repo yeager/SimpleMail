@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128">
+  <!-- Envelope body -->
+  <rect x="12" y="32" width="104" height="72" rx="8" ry="8" fill="#3584e4" stroke="#1c71d8" stroke-width="3"/>
+  <!-- Envelope flap -->
+  <path d="M12 40 L64 76 L116 40" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Accessibility heart -->
+  <circle cx="64" cy="62" r="12" fill="#f6d32d" opacity="0.9"/>
+  <text x="64" y="67" text-anchor="middle" font-size="16" fill="#1c71d8" font-family="sans-serif">♥</text>
+</svg>

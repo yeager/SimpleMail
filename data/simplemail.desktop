@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=SimpleMail
+Name[sv]=SimpleMail
+GenericName=Email Client
+GenericName[sv]=E-postklient
+Comment=Accessible email client with pictogram support
+Comment[sv]=Tillgänglig e-postklient med piktogramstöd och uppläsning
+Exec=simplemail
+Icon=simplemail
+Terminal=false
+Type=Application
+Categories=Network;Email;GTK;
+Keywords=email;mail;e-post;piktogram;tillgänglig;
+StartupNotify=true

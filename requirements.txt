@@ -1,0 +1,5 @@
+PyGObject>=3.42.0
+pycairo>=1.20.0
+pyttsx3>=2.90
+keyring>=23.0.0
+SecretStorage>=3.3.0
